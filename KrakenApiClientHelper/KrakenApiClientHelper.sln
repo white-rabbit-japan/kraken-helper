@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KrakenApiClientHelper", "KrakenApiClientHelper\KrakenApiClientHelper.csproj", "{850C476F-2844-44E3-A3C5-04A28EC9F285}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KrakenApiSample", "KrakenApiSample\KrakenApiSample.csproj", "{ABA79E48-7F69-448B-AC13-7093CD4228B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{850C476F-2844-44E3-A3C5-04A28EC9F285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{850C476F-2844-44E3-A3C5-04A28EC9F285}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{850C476F-2844-44E3-A3C5-04A28EC9F285}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{850C476F-2844-44E3-A3C5-04A28EC9F285}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABA79E48-7F69-448B-AC13-7093CD4228B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABA79E48-7F69-448B-AC13-7093CD4228B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABA79E48-7F69-448B-AC13-7093CD4228B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABA79E48-7F69-448B-AC13-7093CD4228B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
